@@ -1,6 +1,6 @@
 # game
 
-A [re-frame](https://github.com/Day8/re-frame)/[PIXI.js](https://pixijs.com) playground
+A [re-frame](https://github.com/Day8/re-frame)/[PIXI.js](http://www.pixijs.com/) playground
 
 ## Development Mode
 
